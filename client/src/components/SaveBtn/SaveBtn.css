@@ -1,0 +1,13 @@
+.save-btn {
+  float: right;
+  color: white;
+  margin-top: -24px;
+  background-color: turquoise;
+  position:relative;
+  
+}
+
+.save-btn:hover {
+  background-color: darkcyan;
+  
+}
