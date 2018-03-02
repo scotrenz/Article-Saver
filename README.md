@@ -23,6 +23,7 @@ There is still room for improvement including adding more pages for different we
 Running an npm install should install all of the dependencies you need to get this project started.
 
 ## What I learned
-This app helped me understand the architecture and strategic choices that are required when making a React app. Reusability and compartmentalization are key when it comes to building a robust React app, especially when your app needs to scale.
 
-[NYT-SPA](https://nyt-spa-react.herokuapp.com/)
+
+## Deployed Project
+https://frozen-thicket-67612.herokuapp.com/
